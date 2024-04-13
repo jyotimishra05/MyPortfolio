@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Ecommerce-Website",
+    "description": "Implemented a responsive UI design. Configured React Router for smooth navigation between pageImplemented a user registration and login system using Auth0 for enhanced authentication and security. Utilized the Fetch API to fetch necessary product data.Integrated a cart feature allowing users to add, manage quantities, and apply filters. ",
+    "skills": ["React.JS", "Redux", "Bootstrap"],
+    "demo": "https://ecommerce-website-ibkl-qedlxb94l-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/Ecommerce-website-using-react"
+  },
+  {
+    "title": "Movies and TV-Series App",
+    "description": "Features a responsive UI design.Fetches data from The Movie Database API.Provides real-time trending pages, movies, and TV series.Includes a search option, pagination, and filtering functionality.",
+    "skills": ["React.JS","Material UI"],
+    "demo": "https://movie-app-ohhc-d5j8pdyyd-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/Movie-And-TV-series-App"
+  },
+  {
+    "title": "Real Time Chat App",
+    "description": "Includes user registration and login functionality.Allows users to set avatar/profile pictures.Sets up a chat container and integrates chat components for a seamless experience. Implements socket functionality for real-time communication between users.",
+    "skills": ["React","Node.js","MongoDB","Socket.io"],
+    "demo": "https://realtime-chat-app-mern.netlify.app/register",
+    "source": "https://github.com/jyotimishra05/Real-Time-Chat-App-MERN"
+  },
+  {
+    "title": "KBC Quiz App",
+    "description": "Designed and implemented an engaging Quiz App inspired by (Kaun Banega Crorepati).Integrated the use-sound hook for interactive sound effects.Incorporated a countdown timer for added excitement and challenge after each question. Developed robust logic for tracking and displaying correct and wrong answers, ensuring a seamless and enjoyable quiz experience.",
+    "skills": ["React","HTML","CSS"],
+    "demo": "https://kbcquizz-game-7n2h-21dusfzxm-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/KBC-Quizz-App"
+  },
+  {
+    "title": "Real Time Chat App",
+    "description": "Includes user registration and login functionality.Allows users to set avatar/profile pictures.Sets up a chat container and integrates chat components for a seamless experience. Implements socket functionality for real-time communication between users.",
+    "skills": ["React","Node.js","MongoDB","Socket.io"],
+    "demo": "https://realtime-chat-app-mern.netlify.app/register",
+    "source": "https://github.com/jyotimishra05/Real-Time-Chat-App-MERN"
+  },
+  {
+    "title": "Real Time News Website",
+    "description": "Integrated News API for live news updates.Implemented features: category-based navigation, search, theme customization, and pagination.Ensured full responsiveness for optimal user experience across devices.",
+    "skills": ["React","Bootstrap"],
+    "demo": "https://news-website-b9e9-3ggq4yp13-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/News_Website"
+  },
+  {
+    "title": "ThePortfolyo",
+    "description": "Fetched portfolio data from provided API using hooks, utilized useEffect for async data fetching, managed data state with useState hooks, rendered dynamic content in components, and implemented error handling for smooth UX.",
+    "skills": ["React","Api","Bootstrap"],
+    "demo": "https://the-portfolyo-424v.vercel.app/",
+    "source": "https://github.com/jyotimishra05/ThePortfolyo"
+  },
+  {
+    "title": "Paypal_Landingpage",
+    "description": "This project is a PayPal landing page created with React and Tailwind CSS. It features a responsive design having multiple sections.",
+    "skills": ["React","Tailwind CSS"],
+    "demo": "https://paypal-landingpage-pnbc.vercel.app/",
+    "source": "https://github.com/jyotimishra05/Paypal_Landingpage"
+  },
+  {
+    "title": "Tech-Blog",
+    "description": " Next.js 14 full-stack app project using app router, server actions, MongoDB, Auth.js.",
+    "skills": ["Next.js","MongoDB","Auth.js"],
+    "demo": "https://github.com/jyotimishra05/Tech-Blog",
+    "source": "https://github.com/jyotimishra05/Tech-Blog"
+  },
+  {
+    "title": "Tech-Blog",
+    "description": "A Tribute Landing Page visually appealing web page dedicated to honoring and commemorating a person, event, or organization.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://glistening-alfajores-95a269.netlify.app/",
+    "source": "https://github.com/jyotimishra05/tribute-site"
+  },
+  {
+    "title": "Random-Quote-Generator",
+    "description": "In this quote app, each time you click on the new quote button you'll get a new quote. You can also convert a quote to speech, copy a quote, or share a quote on Twitter by clicking the given button.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://leafy-dasik-689531.netlify.app/",
+    "source": "https://github.com/jyotimishra05/Random-quotes-generator"
+  },
+  {
+    "title": "Tip-calculator",
+    "description": "The objective of the project is to take the input value from an input field, then click on a ”calculate” button. Once done,you will total amount including tip amount, which you can go through in my GitHub account.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://github.com/jyotimishra05/tip-calculator",
+    "source": "https://github.com/jyotimishra05/Tech-Blog"
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "In this Project I have Clone the netflix UI using HTML and CSS",
+    "skills": ["HTML","CSS"],
+    "demo": "https://netflix-homepage-sable.vercel.app/",
+    "source": "https://github.com/jyotimishra05/netflix-homepage"
+  },
+  {
+    "title": "Static-Website",
+    "description": "I have build this Static Ecommerce Website with multiple Sections using html,css,js.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://static-website2-1p85lehup-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/static-website2"
+  },
+  {
+    "title": "Restaurant-app",
+    "description": "A restaurant page showcasing a variety of delectable dishes sourced from an API. Using React, HTML, and CSS, I've created a user-friendly interface that allows seamless filtering of items based on your preferences. ",
+    "skills": ["HTML","CSS"],
+    "demo": "https://restaurant-pevcskzn5-jyotimishra05.vercel.app/",
+    "source": "https://github.com/jyotimishra05/Tech-Blog"
+  }
+]
