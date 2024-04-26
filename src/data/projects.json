@@ -24,15 +24,8 @@
     "title": "KBC Quiz App",
     "description": "Designed and implemented an engaging Quiz App inspired by (Kaun Banega Crorepati).Integrated the use-sound hook for interactive sound effects.Incorporated a countdown timer for added excitement and challenge after each question. Developed robust logic for tracking and displaying correct and wrong answers, ensuring a seamless and enjoyable quiz experience.",
     "skills": ["React","HTML","CSS"],
-    "demo": "https://kbcquizz-game-7n2h-21dusfzxm-jyotimishra05.vercel.app/",
+    "demo": "https://kbcquizz-game-five.vercel.app/",
     "source": "https://github.com/jyotimishra05/KBC-Quizz-App"
-  },
-  {
-    "title": "Real Time Chat App",
-    "description": "Includes user registration and login functionality.Allows users to set avatar/profile pictures.Sets up a chat container and integrates chat components for a seamless experience. Implements socket functionality for real-time communication between users.",
-    "skills": ["React","Node.js","MongoDB","Socket.io"],
-    "demo": "https://realtime-chat-app-mern.netlify.app/register",
-    "source": "https://github.com/jyotimishra05/Real-Time-Chat-App-MERN"
   },
   {
     "title": "Real Time News Website",
@@ -63,7 +56,7 @@
     "source": "https://github.com/jyotimishra05/Tech-Blog"
   },
   {
-    "title": "Tech-Blog",
+    "title": "Tribute-Site",
     "description": "A Tribute Landing Page visually appealing web page dedicated to honoring and commemorating a person, event, or organization.",
     "skills": ["HTML","CSS","Javascript"],
     "demo": "https://glistening-alfajores-95a269.netlify.app/",
