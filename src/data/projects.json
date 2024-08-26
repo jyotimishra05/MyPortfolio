@@ -1,5 +1,12 @@
 [
   {
+    "title": "Food-Recipe-Sharing-App",
+    "description": "This React and Tailwind CSS-powered food recipe app allows users to sign up and sign in securely with Firebase authentication. Once logged in, you can add, edit, and delete your own recipes. Explore a diverse list of recipes with detailed information and enjoy a seamless experience in managing your culinary creations. ",
+    "skills": ["React.JS", "Tailwind CSS"],
+    "demo": "https://food-recipe-tmhi.vercel.app/",
+    "source": "https://github.com/jyotimishra05/Food-Recipe"
+  },
+  {
     "title": "Ecommerce-Website",
     "description": "Implemented a responsive UI design. Configured React Router for smooth navigation between pageImplemented a user registration and login system using Auth0 for enhanced authentication and security. Utilized the Fetch API to fetch necessary product data.Integrated a cart feature allowing users to add, manage quantities, and apply filters. ",
     "skills": ["React.JS", "Redux", "Bootstrap"],
